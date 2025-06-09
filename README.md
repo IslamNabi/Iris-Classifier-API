@@ -6,11 +6,15 @@ A Flask API that classifies iris flowers into three species using Random Forest 
 
 ## Features
 
-- 🎯 Predicts iris species (Setosa, Versicolor, Virginica) with 96%+ accuracy
-- 🌐 REST API endpoint for programmatic access
-- 💻 Beautiful web interface with real-time results
-- 📊 Visual probability breakdown
-- 🧪 Includes unit tests and CI-ready structure
+- 🎯 96%+ accuracy  
+- 🌐 REST API endpoint  
+- 💻 Beautiful web interface:  
+
+![Web Interface](./images/ui-demo.png)  
+*Real-time classification UI*
+
+📊 **Probability Breakdown**:  
+![Results](./images/results.png)
 
 ## Quick Start
 
